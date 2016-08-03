@@ -1,3 +1,5 @@
+**For the current source for Federated Wiki please see [fedwiki/wiki](/fedwiki/wiki).**
+
 ```
 This repository exists as both a historical document and 
 a community of interested parties. This is not where you
